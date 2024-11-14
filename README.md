@@ -5,4 +5,6 @@ The code should work in most online compilers.
 Instructions for use:
 1. Copy and paste the entire code of ONE file to https://www.programiz.com/java-programming/online-compiler/ and run the code.
 
-2. The game will instruct you on what to do next.
+2. Rename the internal class from "RPS" or "Guess" to "Main"
+
+3. The game will instruct you on what to do next.
