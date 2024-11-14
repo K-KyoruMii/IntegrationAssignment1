@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; //Demo commit
 
 class Guess {
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ class Guess {
         s.close();
 
         // Announce results
-        System.out.println("You guessed: " + player_num);
+        System.out.println("You gu33essed: " + player_num);
         System.out.println("My number was: " + cpu_num);
 
         if (player_num == cpu_num) {
