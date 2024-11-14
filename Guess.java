@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class Guess {
     public static void main(String[] args) {
         Random rand = new Random();
         int max = 10, min = 1; // Limiters for RPS choosing
