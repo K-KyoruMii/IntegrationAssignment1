@@ -1,6 +1,6 @@
 import java.util.*;
 
-class MainRPS {
+class RPS {
     public static void main(String[] args) {
         Random rand = new Random();
         int max = 3, min = 1; // Limiters for RPS choosing
