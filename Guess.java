@@ -15,8 +15,10 @@ class Guess {
         Scanner s = new Scanner(System.in);
         player_num = s.nextInt();
 
-        s.close(); // Can't have memory leaks happening.
+        // Close out the Scanner since we don't want memory leaks happening.
+        s.close();
 
+        // Announce results
         System.out.println("You guessed: " + player_num);
         System.out.println("My number was: " + cpu_num);
 
