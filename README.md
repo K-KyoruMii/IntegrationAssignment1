@@ -1,3 +1,3 @@
-This is a simple Java program designed to emulate a game of Rock Paper Scissors against a computer opponent.
+This is a simple Java based number guessing game.
 
 It should work in most online compilers.
